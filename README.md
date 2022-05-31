@@ -36,12 +36,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkr-dev&show_icons=true&locale=en&layout=compact" alt="rkr-dev"/> 
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
 <h3 align="center">Support</h3>
 </div>
-<div align="center">
+//<div align="center">
 <a href="https://commerce.coinbase.com/checkout/c722c107-85bb-4f79-9480-bcf5d64abbd7"> 
-<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rinilkunhiraman" />
+//<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rinilkunhiraman" />
 </a>
 </div>
 <br/>
@@ -49,7 +49,7 @@
 <a href="https://www.buymeacoffee.com/rinilkunhiraman"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rkthedev" />
 </a>
 </div>
-
+-->
 
 <!--
 **rkr-dev/rkr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
